@@ -23,6 +23,7 @@ The Business Card Information Extractor is an application designed to assist use
 
 
 **Data Modification**: Users may have the option to modify or update the extracted data as needed.
+
 <img width="305" alt="image" src="https://github.com/kalai2315/Bixcard_project/assets/152251807/073298c2-3405-4c0f-bf8a-67ecb0b0e136">
 
 **Database Integration**: The application integrates with a MySQL database to store and manage extracted business card information.
