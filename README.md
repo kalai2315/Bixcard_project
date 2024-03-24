@@ -27,9 +27,14 @@ The Business Card Information Extractor is an application designed to assist use
 <img width="305" alt="image" src="https://github.com/kalai2315/Bixcard_project/assets/152251807/073298c2-3405-4c0f-bf8a-67ecb0b0e136">
 
 **Database Integration**: The application integrates with a MySQL database to store and manage extracted business card information.
+
+
 **User Interface**: A user-friendly interface allows users to interact with the application seamlessly, facilitating a smooth user experience.
+
+
 **Efficiency**: By automating the process of extracting information from business cards, the application enhances efficiency and productivity for users dealing with a large volume of business card data.e format.
 
-The application utilizes the pandas, streamlit, easyocr, cv2 (OpenCV), os, re, sqlalchemy, and pymysql libraries/modules 
-for various functionalities such as data manipulation, web interface creation, OCR, image processing, database connectivity, 
-and regular expression operations.
+
+The application utilizes the **pandas**, **streamlit**, **easyocr**, **cv2** (OpenCV), **os**, **re**, **sqlalchemy**, and **pymysql** libraries/modules 
+for various functionalities such as **data** **manipulation**, **web** **interface** **creation**, **OCR**, **image** **processing**, **database** **connectivity**, 
+and **regular** **expression** operations.
