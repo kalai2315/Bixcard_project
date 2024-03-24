@@ -1,9 +1,6 @@
-
-
-
-
-
+                                                              
 **Business Card Information Extractor**
+
 The Business Card Information Extractor is an application designed to assist users in efficiently extracting relevant information from business cards. It utilizes optical character recognition (OCR) technology to scan and interpret text from images of business cards, enabling users to digitize and organize the information for further use.
 
 **Key Features**
